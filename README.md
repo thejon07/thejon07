@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thejon07
+- 👋 Hi, I’m @thejon07(Elusive)
 - 👀 I’m interested in doing Frontend Web Development.
 - 🌱 I’m currently learning C++.
 <!---
