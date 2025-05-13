@@ -3,9 +3,5 @@
 </div>
 
 <h1>Hi there..</h1>
-- 👀 I’m interested in doing Frontend Web Development.
-- 🌱 I’m currently learning java.
-<!---
-thejon07/thejon07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p style="margin-top:10px">I'm Bijon, a Full Stack Web Application Developer from  Bangladesh. I Spend most of time coding outstanding projects or recording tutorials.</p>
+
