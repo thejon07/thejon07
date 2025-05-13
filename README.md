@@ -2,7 +2,7 @@
   <img src="https://www.epitech-it.es/wp-content/uploads/2022/07/danial-igdery-FCHlYvR5gJI-unsplash.jpg" alt="Coding Banner" style="width:100%; max-height:200px; object-fit:cover;">
 </div>
 
-- 👋 Hi, I’m @thejon07(Elusive)
+<h1>Hi there..</h1>
 - 👀 I’m interested in doing Frontend Web Development.
 - 🌱 I’m currently learning java.
 <!---
