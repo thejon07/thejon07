@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?semt=ais_hybrid&w=740" alt="Description" style="width:100%;">
+<img src="https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?semt=ais_hybrid&w=740" alt="Description" style="height:80%; width:100%;">
 
 - 👋 Hi, I’m @thejon07(Elusive)
 - 👀 I’m interested in doing Frontend Web Development.
