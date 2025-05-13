@@ -9,3 +9,8 @@
 
 <h4 style="margin-top:10px">🚀 Connect with me</h4>
 
+<div style="display:flex">
+  <div>1</div>
+  <div>2</div>
+  <div>3</div>
+</div>
