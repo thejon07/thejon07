@@ -3,7 +3,7 @@
 </div>
 
 <h1>Hi there..</h1>
-<sub>I'm Bijon, a Full Stack Web Application Developer from  Bangladesh. I Spend most of time coding outstanding projects or recording tutorials.</sub>
+`I'm Bijon, a Full Stack Web Application Developer from  Bangladesh. I Spend most of time coding outstanding projects or recording tutorials.`
 
 
  🚀 Connect with me
