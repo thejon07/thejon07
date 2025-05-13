@@ -5,8 +5,6 @@
 <h1>Hi there..</h1>
 #### I'm Bijon, a Full Stack Web Application Developer from  Bangladesh. I Spend most of time coding outstanding projects or recording tutorials.
 
-<div style="display:flex">
-  <div>🚀</div>
-  <p>Connect with me</p>
-</div>
+
+ 🚀 Connect with me
 
