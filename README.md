@@ -9,8 +9,4 @@
 
 <h4 style="margin-top:10px">🚀 Connect with me</h4>
 
-<div style="display: flex;">
-  <div>1</div>
-  <div>2</div>
-  <div>3</div>
-</div>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react"/>
