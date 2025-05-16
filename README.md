@@ -8,4 +8,5 @@
 
 
 <h4 style="margin-top:10px">🚀 Connect with me</h4>
-![LinkedIn](https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png)
+![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)
+
