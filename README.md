@@ -9,5 +9,4 @@
 
 <h4 style="margin-top:10px">🚀 Connect with me</h4>
 
-<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" 
-  style="width:20px" alt="react"/>
+<a style="background-color:blue; text-color:white; padding:5px">LINKEDIN</a>
