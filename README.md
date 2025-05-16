@@ -8,5 +8,4 @@
 
 
 <h4 style="margin-top:10px">🚀 Connect with me</h4>
-
-<a style="background-color:blue; text-color:white; padding:5px">LINKEDIN</a>
+![LinkedIn](https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png)
