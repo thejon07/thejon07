@@ -8,5 +8,5 @@
 
 
 <h4 style="margin-top:10px">🚀 Connect with me</h4>
-![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)
+![LinkedIn](linked.webp)
 
