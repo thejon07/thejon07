@@ -1,6 +1,7 @@
 <div style="object-fit:cover">
 
 [![An image of @thejon07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thejon07)](https://holopin.io/@thejon07)
+[![An image of @thejon07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thejon07)](https://holopin.io/@thejon07)
 </div>
 
 <h3>Hi There</h3>
